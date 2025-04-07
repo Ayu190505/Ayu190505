@@ -2,6 +2,7 @@
 <h3 align="left">A passionate software developer & computer science student @ university of waterloo</h3>
 
 - 🔭 I’m currently working on **Rune**, a novel language & editor I'm creating using Rust
+[![Rune](https://github-readme-stats.vercel.app/api/pin/?username=Ayu190505&repo=Rune)](https://github.com/Blank9999/Rune)
 
 - 🌱 I’m currently learning about **Compilers & Databases**
 
